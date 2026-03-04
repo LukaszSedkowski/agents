@@ -8,7 +8,7 @@
       "repo": "agents",
       "branch": "main",
       "folder": "kb/dev",
-      "extensions": [".md", ".txt", ".json"]
+      "extensions": [".md", ".txt", ".json", ".xlsx", ".pdf", ".csv"]
     }
   },
   "tutor": {
@@ -48,4 +48,5 @@
       "extensions": [".md", ".txt"]
     }
   }
+
 }
